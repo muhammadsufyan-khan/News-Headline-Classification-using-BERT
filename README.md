@@ -130,7 +130,7 @@ The pipeline is extendable to any text classification task (tweets, reviews, art
 
 1.Clone the Repository
 ```
-git clone https://github.com/your-username/bert-news-classification.git
+git clone https://github.com/muhammadsufyan-khan/bert-news-classification.git
 cd bert-news-classification
 ```
 
